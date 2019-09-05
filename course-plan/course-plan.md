@@ -68,7 +68,7 @@ To pass the course you have to pass (get approved) each of the following element
 | 9     | Nov 08 | [Unsupervised Distribution Alignment](https://youtu.be/0AxgLbQfyjQ) and [BAIR: Self-Supervision](https://youtu.be/PX11C5Vfo9U)       | Christoffer Riis       | Project       |
 | 10     | Nov 15 | [OpenAI: Language Models](https://youtu.be/GEtbD6pqTTE)       | Alexander Neergaard Olesen       | Project       |
 | 11     | Nov 22 | [Representation Learning in Reinforcement Learning](https://youtu.be/Yvll3P1UW5k)       | Jonathan Foldager  | Project       |
-| 12     | Nov 29 | [Deep Mind: Latent-Space Generative Models](https://youtu.be/QoCyQBzi7us?t=55)       |        | Project       |
+| 12     | Nov 29 | [Deep Mind: Latent-Space Generative Models](https://youtu.be/QoCyQBzi7us?t=55)       | Dimitris Kalatzis  | Project       |
 | 13     | Dec 6 | Final project presentations      | All       |        |
 
 ## Reading
