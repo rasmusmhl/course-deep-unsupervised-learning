@@ -1,5 +1,5 @@
 # Deep Unsupervised Learning
-The special course is based on the [Berkeley CD294-158 Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home) and utilizes the material made available on that course page.
+The special course is based on the [Berkeley CD294-158 Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home).
 
 ## Location
 Building 321, 1st floor, room 134 ("lunchroom at the far end of the 1st floor"), 10:00-12:00.
@@ -8,9 +8,9 @@ Building 321, 1st floor, room 134 ("lunchroom at the far end of the 1st floor"),
 Make sure to get access to the Slack CogSys "Deep Unsupervised Learning"-channel: cogsys.slack.com, #deep_unsupervised_learning.
 
 ## Format
-Each two-hour session will go follow the following format:
+Each two-hour session will follow the following format:
 * We recap the lecture for the week and discuss/clarify as needed
-* A presenter will go through a paper (presenters are listed in the schedule, tentative papers for each week is listed under Reading)
+* A presenter will go through a paper (presenters are listed under Schedule, tentative papers for each week is listed under Reading)
 * Depending on the week:
   * Weeks 1-6 (before fall break): We discuss the homework from last time
   * Weeks 7-12 (after the fall break): We provide updates on projects in plenum or in smaller groups
@@ -18,7 +18,7 @@ Each two-hour session will go follow the following format:
 In week 6 we present a short description of the project we intend to work on following the fall break. In week 13 each project group do a 5-10 min presentation of results.
 
 ## Homework
-For the first part of the course (weeks 1-6) 4 homework assignments are to be completed. The links are available in the schedule to the PDF describing the homework. The homework descriptions clearly outline a set of deliverables that are to be handed in on DTU Inside. We will discuss the homework as we go along (see Format). Complete the homework, fill out the LaTeX-template, and upload a PDF to the appropriate assignment.
+For the first part of the course (weeks 1-6) 4 homework assignments are to be completed. The links are available in the schedule to the PDF describing the homework. The homework descriptions clearly outline a set of deliverables that are to be handed in on DTU Inside. We will discuss the homework as we go along (see Format). For each homework assignment you need to: complete the homework, fill out the LaTeX-template, and upload a PDF to the appropriate assignment.
 
 ## Final project
 For the final part of the course (weeks 7-13) a project is to be completed. The first week after the fall break we conclude the session with project pitches from all participants/groups. Based on these pitches you get the project you wish to do approved and you get the initial feedback for getting started. Updates on the project are then given (and you get feedback) the following weeks as the projects progress (see Format).
