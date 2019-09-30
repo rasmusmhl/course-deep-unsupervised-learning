@@ -11,21 +11,19 @@ Make sure to get access to the Slack CogSys "Deep Unsupervised Learning"-channel
 Each two-hour session will follow the following format:
 * We recap the lecture for the week and discuss/clarify as needed
 * A presenter will go through a paper (presenters are listed under Schedule, tentative papers for each week is listed under Reading)
-* Depending on the week:
-  * Weeks 1-8: We discuss the homework from last time
-  * Weeks 9-12: We provide updates on projects in plenum or in smaller groups
+* We discuss the current homework.
 
-In week 10 we present a short description of the project we intend to work on. In week 13 each project group do a 5-10 min presentation of results.
+In week 13 each person does a 5 min presentation of results of their individual project.
 
 ## Homework
-For the first part of the course (weeks 1-8) 4 homework assignments are to be completed. The links are available in the schedule to the PDF describing the homework. The homework descriptions clearly outline a set of deliverables that are to be handed in on DTU Inside. We will discuss the homework as we go along (see Format). For each homework assignment you need to: complete the homework, fill out the LaTeX-template, and upload a PDF to the appropriate assignment.
+4 homework assignments are to be completed. The links are available in the schedule to the PDF describing the homework. The homework descriptions clearly outline a set of deliverables that are to be handed in on DTU Inside. We will discuss the homework as we go along (see Format). For each homework assignment you need to: complete the homework, fill out the LaTeX-template, and upload a PDF to the appropriate assignment.
 
 ## Final project
-For the final part of the course (weeks 9-13) a project is to be completed. In week 10 we conclude the session with project pitches from all participants/groups. Based on these pitches you get the project you wish to do approved and you get the initial feedback for getting started. Updates on the project are then given (and you get feedback) the following weeks as the projects progress (see Format).
+For the final part of the course (weeks 12-13) a small project is to be completed.
 
-For the last session (week 13), a short 5-10 minutes presentation on the project is to be given. This presentation and a report make up the deliverables for the 2nd half of the course. The report should be an IEEE-paper style report of a maximum of 4 pages (excluding references) - a folder with the needed template will be available on DTU Inside.
+For the last session (week 13), a short 5 minutes presentation on the project is to be given. This presentation and a report make up the deliverables for the last part of the course. The report should be an IEEE-paper style report of a maximum of 4 pages (excluding references) - a folder with the needed template is available on DTU Inside.
 
-Given the very limited time scope of the project, the expectation of the project is that you apply 2 or more of the methods worked with in Homeworks 1 through 4 on a dataset different from the homework data but otherwise of your own choosing. The report should compare the results from the two methods with a basis in the course theory. You are more than welcome to work with more than 2 models, consider more than a single problem dataset, or go beyond simply applying the models developed in the homework, but it is not a requirement for getting an approved project.
+Given the very limited time scope of the project, the expectation of the project is that you investigate some aspect of the homework that was not a part of the homework of your own choosing.  Examples: investigating the effect of batch size on the PixelCNN performance on the coloured MNIST (homework 1), investigating some of the bonus questions, or investigating the performance under changes to the architecture. The report should discuss the results with a basis in the course theory. You are more than welcome to work go beyond the homework and investigate your own data, but it is not a requirement for getting an approved project.
 
 ## Paper presentations
 Guidelines for presentation:
@@ -52,7 +50,7 @@ To pass the course you have to pass (get approved) each of the following element
 * Homework 3: Variational Autoencoders
 * Homework 4: Generative Adversarial Networks
 * Your presentation of assigned papers
-* Project pitch, project presentation, and project report
+* Project presentation, and project report
 
 
 ## Schedule
@@ -61,17 +59,17 @@ To pass the course you have to pass (get approved) each of the following element
 | 1     | Sep 6 | [Likelihood-based models I: autoregressive models](https://youtu.be/zNmvH6OXDpk)       | Rasmus Høegh       | [HW1](https://drive.google.com/file/d/1DtYllaV4Yk8ljgYcLBmdXNplEDTG6HT6/view) ([template](https://drive.google.com/open?id=1hDzNphiQi0iM_HmTfl99_n9S4ukRWB7G), due: Sep 27)   |
 | 2     | Sep 13 | [Lossless compression and Likelihood-based models II: flow models](https://youtu.be/mYCLVPRy2nc)       | Peter Ebert Christensen       | HW1 continued     |
 | 3     | Sep 20 | [Latent Variable Models I](https://youtu.be/NCRzGmM1ywE)       | Valentin Liévin       | HW1 continued        |
-| 4     | Sep 27 | [Latent Variable Models II and Bits-Back Coding](https://youtu.be/0IoLKnAg6-s)       | Frederik Boe Hüttel       | [HW2](https://drive.google.com/file/d/1xs9fFCrPs3c9HNnOlmgen1ZnLfs26VVM/view) ([template](https://drive.google.com/file/d/1OEOcGHukFJvHF247kBiJJijrX8Zl4Gnh/view?usp=sharing), due: Oct 11)       |
+| 4     | Sep 27 | [Latent Variable Models II and Bits-Back Coding](https://youtu.be/0IoLKnAg6-s)       | Frederik Boe Hüttel       | [HW2](https://drive.google.com/file/d/1xs9fFCrPs3c9HNnOlmgen1ZnLfs26VVM/view) ([template](https://drive.google.com/file/d/1OEOcGHukFJvHF247kBiJJijrX8Zl4Gnh/view?usp=sharing), due: Oct 25)       |
 | 5     | Oct 4 | [Implicit Models/Generative Adversarial Networks](https://youtu.be/grsO57XMJMk)       | Didrik Nielsen       | HW2 continued     |
-| 6     | Oct 11 | [Non-Generative Representation Learning I](https://youtu.be/5NMIUZ7_nrg)       | Umaer Hanif       | [HW3](https://drive.google.com/file/d/1IrPBblLovAImcZdWnzJO07OxT7QD9X2m/view?usp=sharing) ([template](https://drive.google.com/file/d/1J1uenpoSHhTucGbCiSb-Rbds0yBKYnpC/view?usp=sharing), due Oct 25)     |
+| 6     | Oct 11 | [Non-Generative Representation Learning I](https://youtu.be/5NMIUZ7_nrg)       |        | HW 2 continued     |
 ||Oct 18|Fall break||
-| 7     | Oct 25 | [Non-Generative Representation Learning II](https://youtu.be/AC4l_MY2Dhc)       | Nicklas Hansen       | [HW4](https://drive.google.com/file/d/1vBJro462ax_Pk4SN9TJdzNUN0vnRV0r-/view) ([template](https://drive.google.com/open?id=12QMtInyxHxmhvgj-1jQs5CJfDra_UjO8), due: Nov 08)        |
-| 8     | Nov 1 | [Semi-Supervised Learning](https://youtu.be/7o9dT6puHHg) and [Open AI: Reinforcement Learning](https://youtu.be/X-B3nAN7YRM)       | Andreas Brink-Kjær       | HW4 continued       |
-| 9     | Nov 08 | [Unsupervised Distribution Alignment](https://youtu.be/0AxgLbQfyjQ) and [BAIR: Self-Supervision](https://youtu.be/PX11C5Vfo9U)       | Christoffer Riis       | Project pitch (due Nov 15)          |
-| 10     | Nov 15 | [OpenAI: Language Models](https://youtu.be/GEtbD6pqTTE)       | Alexander Neergaard Olesen       | Project       |
-| 11     | Nov 22 | [Representation Learning in Reinforcement Learning](https://youtu.be/Yvll3P1UW5k)       | Jonathan Foldager  | Project       |
-| 12     | Nov 29 | [Deep Mind: Latent-Space Generative Models](https://youtu.be/QoCyQBzi7us?t=55)       | Dimitris Kalatzis  | Project       |
-| 13     | Dec 6 | Final project presentations      | All       |        |
+| 7     | Oct 25 | [Non-Generative Representation Learning II](https://youtu.be/AC4l_MY2Dhc)       | Nicklas Hansen       | [HW3](https://drive.google.com/file/d/1IrPBblLovAImcZdWnzJO07OxT7QD9X2m/view?usp=sharing) ([template](https://drive.google.com/file/d/1J1uenpoSHhTucGbCiSb-Rbds0yBKYnpC/view?usp=sharing), due Nov 15)         |
+| 8     | Nov 1 | [Semi-Supervised Learning](https://youtu.be/7o9dT6puHHg) and [Open AI: Reinforcement Learning](https://youtu.be/X-B3nAN7YRM)       | Andreas Brink-Kjær       | HW3 continued       |
+| 9     | Nov 08 | [Unsupervised Distribution Alignment](https://youtu.be/0AxgLbQfyjQ) and [BAIR: Self-Supervision](https://youtu.be/PX11C5Vfo9U)       | Christoffer Riis       | HW3 continued         |
+| 10     | Nov 15 | [OpenAI: Language Models](https://youtu.be/GEtbD6pqTTE)       | Alexander Neergaard Olesen       | [HW4](https://drive.google.com/file/d/1vBJro462ax_Pk4SN9TJdzNUN0vnRV0r-/view) ([template](https://drive.google.com/open?id=12QMtInyxHxmhvgj-1jQs5CJfDra_UjO8), due: Nov 29)       |
+| 11     | Nov 22 | [Representation Learning in Reinforcement Learning](https://youtu.be/Yvll3P1UW5k)       | Jonathan Foldager  | HW4 continued       |
+| 12     | Nov 29 | [Deep Mind: Latent-Space Generative Models](https://youtu.be/QoCyQBzi7us?t=55)       | Dimitris Kalatzis  | HW4 continued       |
+| 13     | Dec 6 | Final project presentations      | All       | Project (presentation due Dec 6, report due Dec 20)       |
 
 ## Reading
 Reading is based on papers central to the talk or homework. Optionals are highlights beyond that paper from the various articles suggested [here](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Ff09vfmfjb9thaef%2Fgm_reading_list.zip%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEnaHV6R9-39xyjkYqIbwMBPtVgcw). Suggestions for important highlights are welcome. You are free to swap presentation dates (and thereby paper) - coordinate between yourselves and notify Rasmus (rmth@dtu.dk).
@@ -100,6 +98,7 @@ Reading is based on papers central to the talk or homework. Optionals are highli
 * Week 7:
   * [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
   * Optional: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+  * Optional: [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)
 * Week 8:
   * [Temporal Ensembling for Semi-Supervised Learning](https://arxiv.org/pdf/1610.02242.pdf)
   * Optional, OpenAI-paper, GPT2: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
